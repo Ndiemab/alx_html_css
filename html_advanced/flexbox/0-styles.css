@@ -187,7 +187,6 @@
     list-style: none;
   }
   
-  
   [class*='col-'] {
     padding: 0.5rem;
   }
@@ -203,6 +202,7 @@
   .row {
     display: flex;
   }
+  
   /* Navbar
       ============================= */
   
